@@ -1,0 +1,31 @@
+id,genre,english,korean_mt,my_score,llm_score,llm_reason
+1,news,"The central bank held interest rates steady on Tuesday, citing uncertainty over inflation.",중앙은행은 화요일에 인플레이션에 대한 불확실성을 이유로 기준금리를 동결했다.,5,5,의미·수치 모두 정확하고 자연스러우며 '기준금리'도 문맥상 적절하다
+2,news,Officials said the bridge will remain closed until at least March while engineers assess the damage.,관계자들은 엔지니어들이 피해 상황을 평가하는 동안 다리가 최소한 3월까지는 폐쇄될 것이라고 밝혔습니다.,4,5,'최소한 3월까지는 폐쇄'와 피해 평가 중이라는 조건이 정확히 전달됐다
+3,news,Shares of the chipmaker fell 4 percent after it warned that demand for older models was weakening.,반도체 제조업체의 주가는 구형 모델에 대한 수요 약화를 경고한 후 4% 하락했습니다.,4,5,4% 하락과 구형 모델 수요 약화 경고의 인과가 정확하다
+4,news,The city council voted 7-2 to approve the new housing plan despite objections from several residents.,"시의회는 일부 주민들의 반대에도 불구하고 새로운 주택 건설 계획을 찬성 7표, 반대 2표로 승인했습니다.",5,4,7-2 표결과 반대 의견은 정확하지만 'housing plan'에 없는 '건설'이 추가됐다
+5,news,Researchers found no evidence that the drug reduced the risk of heart disease in adults under 40.,연구진은 해당 약물이 40세 미만 성인의 심장 질환 위험을 줄인다는 증거를 찾지 못했습니다.,5,5,부정('증거를 찾지 못했다')과 '40세 미만' 조건이 정확하다
+6,news,"Heavy rain is expected to continue through the weekend, and flood warnings are in effect for three counties.","주말까지 폭우가 계속될 것으로 예상되며, 3개 카운티에 홍수 경보가 발령되었습니다.",4,4,'through the weekend'(주말 내내)가 '주말까지'로 바뀌어 기간 의미가 약간 달라질 수 있다
+7,news,The company denied that it had known about the defect before the recall was announced.,회사 측은 리콜 발표 이전에 해당 결함에 대해 알고 있었다는 주장을 부인했습니다.,5,5,'알고 있었다는 사실을 부인'한 의미가 정확하다
+8,news,"Negotiators failed to reach a deal on Monday, but both sides agreed to resume talks next week.","협상단은 월요일에 합의에 이르지 못했지만, 양측은 다음 주에 협상을 재개하기로 합의했다.",5,5,합의 실패와 협상 재개 합의의 대비가 정확하다
+9,news,"Unemployment edged up to 4.3 percent last month, the highest level in almost two years.",지난달 실업률은 4.3%로 소폭 상승해 거의 2년 만에 최고치를 기록했습니다.,5,5,수치와 '거의 2년 만의 최고치'가 정확하다
+10,news,"The museum, which was founded in 1923, reopened on Saturday after a two-year renovation.",1923년에 설립된 이 박물관은 2년간의 보수 공사를 마치고 토요일에 재개관했습니다.,5,5,설립 연도·재개관 시점·보수 기간이 모두 정확하다
+11,esports,"And Faker flashes in, but it's too late — the whole team collapses on him!",페이커가 순간이동으로 달려들지만 이미 늦었다. 팀 전체가 그에게 달려들어 쓰러졌다!,2,2,'flash'(점멸)가 다른 스킬인 '순간이동'으로 오역되고 'collapses on him'(그에게 몰려들다)이 '쓰러졌다'로 어긋났다
+12,esports,"They're going for Baron with only thirty seconds left on the respawn timer, that is a huge risk.","부활 시간이 30초밖에 안 남은 상황에서 바론을 잡으러 간다니, 엄청난 위험 부담이네요.",4,4,뜻은 맞지만 'respawn timer'가 누구의 것인지 모호한 채 직역됐다
+13,esports,What a clutch play! He's down to one health point and still takes out two players.,정말 대단한 플레이였어! 체력이 1밖에 안 남았는데도 두 명이나 쓰러뜨렸잖아.,4,4,의미는 맞지만 'clutch'의 결정적 순간 뉘앙스가 '대단한'으로 약해졌다
+14,esports,The crowd goes wild as the underdogs take game three and force a decider.,약체로 평가받던 팀이 3세트를 따내며 승부를 마지막 세트로 끌고 가자 관중들은 열광했다.,4,5,'game three'와 'force a decider'가 e스포츠 문맥에 맞게 번역됐다
+15,esports,That ultimate was completely wasted; he should have saved it for the team fight.,궁극기는 완전히 낭비였어요. 팀 전투를 위해 아껴뒀어야 했죠.,5,5,궁극기 낭비와 팀 전투를 위해 아껴뒀어야 했다는 조언이 정확하다
+16,esports,"Gen.G is playing it safe, farming under the tower and waiting for the enemy to make a mistake.",Gen.G는 안전하게 타워 아래에서 파밍하며 상대방의 실수를 기다리고 있습니다.,2,5,안전한 운영·파밍·상대 실수 대기가 정확하다
+17,esports,"If they lose this fight, they're basically out of the tournament.",이번 경기에서 지면 사실상 토너먼트에서 탈락하는 셈입니다.,4,3,'fight'(교전)를 '경기'로 옮겨 상황의 규모가 달라졌다
+18,esports,"He missed the stun by a hair, and that gave the other team all the time they needed.","그는 기절 공격을 아슬아슬하게 빗맞혔고, 그 틈을 타 상대 팀에게 필요한 시간을 모두 내주었다.",2,3,'stun'은 이해되나 '그 틈을 타'가 문장 논리를 어색하게 만들어 인과가 흐려졌다
+19,esports,Look at that rotation — the entire squad moves to the second objective without a single ping.,저 이동 과정을 보세요. 분대 전체가 아무런 핑도 찍지 않고 두 번째 목표 지점으로 이동하네요.,4,4,뜻은 전달되지만 'squad'가 '분대'로 'objective'가 '목표 지점'으로 게임 용어와 어긋난다
+20,esports,"It's a bold pick, but with this lineup it could really catch them off guard.","과감한 선택이지만, 이 라인업이라면 상대를 완전히 허를 찌를 수도 있을 겁니다.",4,4,의미는 맞지만 '상대를 허를 찌르다'는 어법이 어색하다
+21,daily,"I'm running late, so don't wait for me — just start without me.",늦을 것 같으니 기다리지 말고 먼저 시작하세요.,4,5,기다리지 말고 먼저 시작하라는 뜻이 정확하다
+22,daily,Could you tell me how to get to the nearest subway station?,가장 가까운 지하철역으로 가는 방법을 알려주시겠어요?,4,5,정중한 요청과 의미가 정확하다
+23,daily,"I wouldn't say it was bad, but it wasn't exactly what I expected either.","나쁘진 않았지만, 제가 기대했던 것과는 조금 달랐어요.",4,4,'not exactly what I expected'가 '조금 달랐다'로 약간 약해졌다
+24,daily,She told her sister that she would pick her up at six.,그녀는 여동생에게 6시에 데리러 가겠다고 말했다.,5,4,대명사 모호성을 한 해석으로 정했고 'sister'를 '여동생'으로 가정했다
+25,daily,"It's raining cats and dogs outside, so let's stay in tonight.",밖에 비가 억수같이 쏟아지니 오늘은 집에서 쉬자.,3,5,관용구를 '억수같이'로 자연스럽게 살렸다
+26,daily,I can't believe you haven't seen that movie yet — you have to watch it this weekend.,아직 그 영화를 안 봤다니 믿을 수가 없어. 이번 주말에 꼭 봐야 해.,2,5,놀람과 권유의 어조가 정확하다
+27,daily,"We're out of milk, so could you grab some on your way home?","우유가 다 떨어졌으니, 집에 가는 길에 좀 사다 주시겠어요?",4,5,부탁의 의미가 정확하고 자연스럽다
+28,daily,"He kept his promise, and for once he actually showed up on time.","그는 약속을 지켰고, 이번에는 정말로 제시간에 나타났다.",4,4,'for once'의 '웬일로'라는 뉘앙스가 약하게 전달됐다
+29,daily,Do you mind if I open the window? It's getting a bit stuffy in here.,창문 좀 열어도 될까요? 안이 좀 답답하네요.,4,5,양해 요청과 'stuffy'가 '답답하다'로 적절하다
+30,daily,That's not what I meant at all; you're completely misunderstanding me.,제가 말하려던 의도는 전혀 그게 아니었어요. 완전히 오해하고 계신 거예요.,4,5,오해에 대한 반박 의미가 정확하다
